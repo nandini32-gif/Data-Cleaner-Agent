@@ -37,6 +37,10 @@ Use the sample file messy_data.csv:
 2. Choose Remove rows and click Start Cleaning to see the summary.
 3. Choose Fill instead to keep the rows with missing values.
 
+## Screenshots
+![Before cleaning](data%20cleaner%20before.png)
+![After cleaning](After%20cleaning.png)
+
 # Author
 Nandini Yogesh Tapase
 Data Analytics , Fortune cloud technologies 
